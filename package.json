@@ -1,6 +1,6 @@
 {
   "name": "vulcan-menu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "package.js",
   "directories": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/lbke/vulcan-menu/issues"
   },
-  "homepage": "https://github.com/lbke/vulcan-menu#readme"
+  "homepage": "https://github.com/lbke/vulcan-menu#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  }
 }
